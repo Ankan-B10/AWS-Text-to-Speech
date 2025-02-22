@@ -1,4 +1,4 @@
-# 🚀 AWS Text-to-Speech Converter
+# 🚀 AWS Text-to-Speech Converter 💬
 
 A React-based static web application that allows users to convert text to speech using Amazon Polly. The application provides an interface to select different voices and control playback speed.
 

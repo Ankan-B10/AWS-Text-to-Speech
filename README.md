@@ -2,6 +2,8 @@
 
 A React-based static web application that allows users to convert text to speech using Amazon Polly. The application provides an interface to select different voices and control playback speed.
 
+<img width="1419" alt="SCR-20250423-rciu" src="https://github.com/user-attachments/assets/4ac7e4fd-0d2d-4335-9285-e73df2e38bbd" />
+
 ## ✨ Features
 - Convert text to speech using AWS Polly
 - Select from multiple voice options
